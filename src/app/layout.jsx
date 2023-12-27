@@ -1,7 +1,8 @@
-import './globals.css'
+import Footer from "@/components/Footer";
+import "./globals.css";
 import Head from "@/app/head";
 
-export default function RootLayout({children}) {
+export default function RootLayout({ children }) {
     return (
         <html lang="en">
         {/*
@@ -9,7 +10,12 @@ export default function RootLayout({children}) {
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
         <Head/>
-        <body>{children}</body>
+        <body className="relative min-h-screen">
+        {children}
+        {/* Footer */}
+
+        <Footer />
+        </body>
         </html>
-    )
+    );
 }
