@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Page = () => {
+const ImageSearchPage = () => {
     return (
         <div>
             Image Search Page

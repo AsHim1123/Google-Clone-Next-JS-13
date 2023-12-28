@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="feat : complete the search header options">
+    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="chore : fetch data from google api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/search/image/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/image/page.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/search/web/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/page.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703731859138</updated>
       <workItem from="1703731862348" duration="1194000" />
-      <workItem from="1703757541041" duration="8647000" />
+      <workItem from="1703757541041" duration="12856000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -115,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703765810209</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chore : fetch data from google api">
+      <option name="closed" value="true" />
+      <created>1703769561072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703769561072</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +139,7 @@
     <MESSAGE value="feat : update the search header section" />
     <MESSAGE value="feat : complete the search box component" />
     <MESSAGE value="feat : complete the search header options" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : complete the search header options" />
+    <MESSAGE value="chore : fetch data from google api" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore : fetch data from google api" />
   </component>
 </project>
