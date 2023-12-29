@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="fix : handle possible errors">
-      <change afterPath="$PROJECT_DIR$/src/app/search/error.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/search/web/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/page.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1703731859138</updated>
       <workItem from="1703731862348" duration="1194000" />
-      <workItem from="1703757541041" duration="14198000" />
+      <workItem from="1703757541041" duration="14469000" />
+      <workItem from="1703817032954" duration="1474000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703782217614</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix : handle possible errors">
+      <option name="closed" value="true" />
+      <created>1703783343342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703783343342</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
