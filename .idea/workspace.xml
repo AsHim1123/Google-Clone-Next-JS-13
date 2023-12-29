@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="feat : fetch more data by adding startIndex">
+    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="chore : create loading.jsx file (by def. server side)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/search/web/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/search/web/loading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/loading.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\OneDrive\Desktop\google-clone\src\app\search\image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\OneDrive\Desktop\google-clone\src\app\search" />
     </key>
@@ -98,7 +101,7 @@
       <workItem from="1703731862348" duration="1194000" />
       <workItem from="1703757541041" duration="14469000" />
       <workItem from="1703817032954" duration="1909000" />
-      <workItem from="1703851276659" duration="5067000" />
+      <workItem from="1703851276659" duration="5386000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -204,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703864337526</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="chore : create loading.jsx file (by def. server side)">
+      <option name="closed" value="true" />
+      <created>1703865092309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865092309</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +239,7 @@
     <MESSAGE value="style : add right button icon from react-icons" />
     <MESSAGE value="style : adjust padding for small size" />
     <MESSAGE value="feat : fetch more data by adding startIndex" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : fetch more data by adding startIndex" />
+    <MESSAGE value="chore : create loading.jsx file (by def. server side)" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore : create loading.jsx file (by def. server side)" />
   </component>
 </project>
