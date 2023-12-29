@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="add : duplicate the loading multiple times">
+    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="style : add animating loading effect in image">
       <change beforePath="$PROJECT_DIR$/src/app/search/image/loading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/image/loading.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,7 @@
       <workItem from="1703731862348" duration="1194000" />
       <workItem from="1703757541041" duration="14469000" />
       <workItem from="1703817032954" duration="1909000" />
-      <workItem from="1703851276659" duration="6035000" />
+      <workItem from="1703851276659" duration="6341000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -246,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703865710433</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="style : add animating loading effect in image">
+      <option name="closed" value="true" />
+      <created>1703865979221</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865979221</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +283,7 @@
     <MESSAGE value="refactor : add space in style" />
     <MESSAGE value="fix : add max property in width" />
     <MESSAGE value="add : duplicate the loading multiple times" />
-    <option name="LAST_COMMIT_MESSAGE" value="add : duplicate the loading multiple times" />
+    <MESSAGE value="style : add animating loading effect in image" />
+    <option name="LAST_COMMIT_MESSAGE" value="style : add animating loading effect in image" />
   </component>
 </project>
