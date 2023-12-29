@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="style : add left button icon from react-icons">
+    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="style : adjust padding for small size">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/search/image/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/image/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/search/web/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/page.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PaginationButtons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PaginationButtons.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +99,7 @@
       <workItem from="1703731862348" duration="1194000" />
       <workItem from="1703757541041" duration="14469000" />
       <workItem from="1703817032954" duration="1909000" />
-      <workItem from="1703851276659" duration="2908000" />
+      <workItem from="1703851276659" duration="4356000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -179,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703853842810</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="style : add right button icon from react-icons">
+      <option name="closed" value="true" />
+      <created>1703854213609</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703854213609</updated>
+    </task>
+    <task id="LOCAL-00015" summary="style : adjust padding for small size">
+      <option name="closed" value="true" />
+      <created>1703854529444</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703854529444</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +218,8 @@
     <MESSAGE value="feat : create search result component" />
     <MESSAGE value="chore : add image results" />
     <MESSAGE value="style : add left button icon from react-icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="style : add left button icon from react-icons" />
+    <MESSAGE value="style : add right button icon from react-icons" />
+    <MESSAGE value="style : adjust padding for small size" />
+    <option name="LAST_COMMIT_MESSAGE" value="style : adjust padding for small size" />
   </component>
 </project>
