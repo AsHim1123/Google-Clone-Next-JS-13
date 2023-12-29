@@ -23,8 +23,6 @@ const WebSearchPage = async ({searchParams}) => {
             </Link>
 
         </div>
-
-
     }
 
     return (<>
