@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="refactor : add space in style">
-      <change beforePath="$PROJECT_DIR$/src/app/search/web/loading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/web/loading.jsx" afterDir="false" />
+    <list default="true" id="1b05b238-57ba-4cb4-a54e-d24d82395ca8" name="Changes" comment="add : duplicate the loading multiple times">
+      <change beforePath="$PROJECT_DIR$/src/app/search/image/loading.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/search/image/loading.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1703731862348" duration="1194000" />
       <workItem from="1703757541041" duration="14469000" />
       <workItem from="1703817032954" duration="1909000" />
-      <workItem from="1703851276659" duration="5700000" />
+      <workItem from="1703851276659" duration="6035000" />
     </task>
     <task id="LOCAL-00004" summary="feat : create search page for web and image">
       <option name="closed" value="true" />
@@ -230,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703865525509</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix : add max property in width">
+      <option name="closed" value="true" />
+      <created>1703865635406</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865635406</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add : duplicate the loading multiple times">
+      <option name="closed" value="true" />
+      <created>1703865710433</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865710433</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +273,8 @@
     <MESSAGE value="chore : create loading.jsx file (by def. server side)" />
     <MESSAGE value="style : loading.jsx of web section" />
     <MESSAGE value="refactor : add space in style" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor : add space in style" />
+    <MESSAGE value="fix : add max property in width" />
+    <MESSAGE value="add : duplicate the loading multiple times" />
+    <option name="LAST_COMMIT_MESSAGE" value="add : duplicate the loading multiple times" />
   </component>
 </project>
